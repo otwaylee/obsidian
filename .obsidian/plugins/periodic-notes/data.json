@@ -4,8 +4,8 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "YYYY-MM-DD(ddd)",
-    "template": "98. Template/Daily_Note 템플릿.md",
-    "folder": "02. Planner/03. Daily",
+    "template": "Template/Daily_Note 템플릿.md",
+    "folder": "TECHIT FE School 10기/daily_note",
     "enabled": true
   },
   "weekly": {
