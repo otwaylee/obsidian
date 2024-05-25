@@ -5,7 +5,7 @@
   "daily": {
     "format": "YYYY-MM-DD(ddd)",
     "template": "Template/Daily_Note 템플릿.md",
-    "folder": "TECHIT FE School 10기/daily_note",
+    "folder": "TECHIT FE School 10기/TIL",
     "enabled": true
   },
   "weekly": {
