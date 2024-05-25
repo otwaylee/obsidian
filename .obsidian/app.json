@@ -1,0 +1,11 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "defaultViewMode": "preview",
+  "newFileFolderPath": "00.Inbox",
+  "attachmentFolderPath": ""
+}

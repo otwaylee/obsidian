@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "caadd9118f3acf38",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f314b94dd5f3afb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d41361534179ffa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "98. Template/Daily_Note 템플릿.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08dce5dfadbb72bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f84bdea24e1ff766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d74f193b4c5279af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abf56499b029bea4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecdd21a690ea13d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48ab30c2d22fe487",
+    "type": "split",
+    "children": [
+      {
+        "id": "a53f0221cd65925a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "968c2802d2f18023",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "98. Template/Daily_Note 템플릿.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b747fcc77a33172",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "98. Template/Daily_Note 템플릿.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2ac21652cd85863",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a9a5c27044f97ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "98. Template/Daily_Note 템플릿.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "59422c1adc764ab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cdc4380a6712c0a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false,
+      "vscode-editor:Create Code File": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "d74f193b4c5279af",
+  "lastOpenFiles": [
+    "TECHIT FE School 10기/TIL",
+    "02. Planner/03. Daily/2024-05-25(토).md",
+    "98. Template/Daily_Note 템플릿.md",
+    "2024-05-25.md",
+    "02. Planner/03. Daily",
+    "무제 폴더",
+    "02. Planner",
+    "2024-05-24.md",
+    "무제 파일 1.canvas",
+    "98. Template",
+    "무제 파일 2.canvas",
+    "01. Daily Notes",
+    "99. Attachments",
+    "무제 파일.canvas",
+    "Welcome.md"
+  ]
+}
