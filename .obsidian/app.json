@@ -7,5 +7,6 @@
   "readableLineLength": false,
   "defaultViewMode": "preview",
   "newFileFolderPath": "00.Inbox",
-  "attachmentFolderPath": ""
+  "attachmentFolderPath": "",
+  "promptDelete": false
 }

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d41361534179ffa3",
+            "id": "9073ffb553c97687",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "98. Template/Daily_Note 템플릿.md",
+                "file": "TECHIT FE School 10기/TIL/ㅁㄴㅇㅁㄴㅇ.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "98. Template/Daily_Note 템플릿.md",
+                "file": "TECHIT FE School 10기/TIL/ㅁㄴㅇㅁㄴㅇ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "98. Template/Daily_Note 템플릿.md",
+                "file": "TECHIT FE School 10기/TIL/ㅁㄴㅇㅁㄴㅇ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +126,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "98. Template/Daily_Note 템플릿.md"
+                "file": "TECHIT FE School 10기/TIL/ㅁㄴㅇㅁㄴㅇ.md"
               }
+            }
+          },
+          {
+            "id": "08438f7220024c68",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "59422c1adc764ab1",
@@ -164,22 +172,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d74f193b4c5279af",
+  "active": "9073ffb553c97687",
   "lastOpenFiles": [
-    "TECHIT FE School 10기/TIL",
-    "02. Planner/03. Daily/2024-05-25(토).md",
-    "98. Template/Daily_Note 템플릿.md",
-    "2024-05-25.md",
-    "02. Planner/03. Daily",
-    "무제 폴더",
-    "02. Planner",
-    "2024-05-24.md",
-    "무제 파일 1.canvas",
-    "98. Template",
+    "Daily Notes/무제 파일.md",
+    "TECHIT FE School 10기/TIL/ㅁㄴㅇㅁㄴㅇ.md",
+    "무제 파일.md",
+    "2024.md",
     "무제 파일 2.canvas",
-    "01. Daily Notes",
-    "99. Attachments",
     "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "README.md",
+    "Template/Daily_Note 템플릿.md",
+    "2024-05-25.md",
+    "source control.md",
+    "TECHIT FE School 10기/TIL",
+    "Planner/03. Daily/2024-05-25(토).md",
+    "Planner/03. Daily",
+    "무제 폴더",
+    "Planner",
+    "2024-05-24.md",
+    "Template",
+    "Daily Notes",
+    "Attachments",
     "Welcome.md"
   ]
 }
