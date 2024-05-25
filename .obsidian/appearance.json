@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "inlineCodeIcon"
-  ]
+  ],
+  "baseFontSize": 17
 }
