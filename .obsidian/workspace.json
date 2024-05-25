@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHIT FE School 10기/daily_note/2024-05-25(토).md",
+                "file": "Template/Daily_Note 템플릿.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHIT FE School 10기/daily_note/2024-05-25(토).md",
+                "file": "Template/Daily_Note 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHIT FE School 10기/daily_note/2024-05-25(토).md",
+                "file": "Template/Daily_Note 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHIT FE School 10기/daily_note/2024-05-25(토).md"
+                "file": "Template/Daily_Note 템플릿.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "9073ffb553c97687",
   "lastOpenFiles": [
-    "Template/Daily_Note 템플릿.md",
     "TECHIT FE School 10기/daily_note/2024-05-25(토).md",
+    "Template/Daily_Note 템플릿.md",
     "TECHIT FE School 10기/daily_note/무제 파일.md",
     "README.md",
     "Daily Notes/sdfsdfsd.md",
