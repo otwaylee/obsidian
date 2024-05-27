@@ -5,5 +5,8 @@
   "enabledCssSnippets": [
     "inlineCodeIcon"
   ],
-  "baseFontSize": 17
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "Apple SD Gothic Neo",
+  "monospaceFontFamily": "D2Coding"
 }

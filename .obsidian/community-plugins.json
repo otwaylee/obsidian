@@ -6,5 +6,12 @@
   "vscode-editor",
   "calendar",
   "periodic-notes",
-  "obsidian-git"
+  "obsidian-git",
+  "image-converter",
+  "settings-search",
+  "obsidian-plugin-update-tracker",
+  "emoji-shortcodes",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
+  "editing-toolbar"
 ]

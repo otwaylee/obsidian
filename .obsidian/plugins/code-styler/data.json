@@ -321,7 +321,7 @@
           "textItalic": false
         },
         "languageIcon": {
-          "display": "always",
+          "display": "if_header_shown",
           "displayColour": true
         },
         "externalReference": {
@@ -351,7 +351,7 @@
         "gradientHighlightsColourStop": "70%",
         "languageBorderColour": false,
         "languageBorderWidth": 5,
-        "iconSize": 15
+        "iconSize": 18
       }
     },
     "colours": {
